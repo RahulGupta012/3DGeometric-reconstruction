@@ -1,0 +1,6 @@
+open3d-python
+pillow
+matplotlib
+scipy
+open3d==0.20.0
+opencv-python
