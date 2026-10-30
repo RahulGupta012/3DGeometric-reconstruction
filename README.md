@@ -114,7 +114,7 @@ Created a video file with frame to make the visulization of input:
 Here is the Output files- room_mesh(mesh file) and room_fused(cloudpoint file)
 
 ! [output(3d_reconstructed_plane)](outputs\room_mesh.ply)
-("git lfs pull" after cloning becuase mesh size is 140mb github supports 100mb only)
+("git lfs pull" after cloning becuase mesh size is 128mb github supports 100mb only)
 
 ---
 ```text
