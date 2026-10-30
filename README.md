@@ -20,7 +20,7 @@ crearing point clouds + TSDF
 
 Creating point clouds: tranform RGB info + depth into the 3D points ---> transform these point into 3d world coordinates ---> Fusion(combined accross the frames)
 
-Worked on Open Source data similer to AR Core. Some info ie..walls and celling is missing in frames.
+Worked on Open Source data similer to AR Core. AR Core not supported in my device.
 https://www.open3d.org/docs/release/python_api/open3d.data.RedwoodIndoorLivingRoom1.html
 
 
